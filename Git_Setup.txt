@@ -1,0 +1,10 @@
+Git Clone command
+
+git clone https://github.com/thangarajdeivasikamani/Thangaraj_Datacamp-Data_Scientist_with_Python
+
+cd Thangaraj_Datacamp-Data_Scientist_with_Python
+
+Git checkin command:
+
+git remote add origin https://github.com/thangarajdeivasikamani/Thangaraj_Datacamp-Data_Scientist_with_Python.git
+git push -u origin master
